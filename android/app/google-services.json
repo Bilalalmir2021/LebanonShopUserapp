@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833344832736",
+    "project_id": "lebanon-shop-new-2026",
+    "storage_bucket": "lebanon-shop-new-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833344832736:android:220e45aa195323c854fc85",
+        "android_client_info": {
+          "package_name": "com.Almirtechnology.LBUserApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUGXAjtl6lm3gdB7s0cd15md5SwZUEXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
