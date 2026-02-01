@@ -28,7 +28,7 @@ class OnBoardingScreen extends StatelessWidget {
           return Stack(clipBehavior: Clip.none, children: [
 
               Consumer<OnBoardingController>(
-                builder: (context, onBoardingList, child) => ListView(children: [
+                builder: (context, onBoardingList, child) => ListView(padding: EdgeInsets.zero, children: [
                     SizedBox(height: height*0.7,
                       child: PageView.builder(
                         itemCount: onBoardingList.onBoardingList.length,

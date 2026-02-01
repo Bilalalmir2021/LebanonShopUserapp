@@ -37,7 +37,7 @@ class NotificationHelper {
         log("==Payload=11=>${load.payload}");
         NotificationBody payload;
 
-        if(load.payload!.isNotEmpty) {
+        if(load.payload != null && load.payload!.isNotEmpty) {
           payload = NotificationBody.fromJson(jsonDecode(load.payload!));
           log("-----------tyyuuyypee88==>${payload.type}");
           log("=============Payload==>${load.payload}");
@@ -98,7 +98,7 @@ class NotificationHelper {
         }
       }
 
-      if(message.data['type'] != 'maintenance_mode' || message.data['type'] != 'product_restock_update') {
+      if(message.data['type'] != 'maintenance_mode' && message.data['type'] != 'product_restock_update') {
         NotificationHelper.showNotification(message, flutterLocalNotificationsPlugin, false);
       }
 

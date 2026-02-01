@@ -175,7 +175,7 @@ class MyApp extends StatelessWidget {
             FallbackLocalizationDelegate()
           ],
           builder:(context,child) {
-            return MediaQuery(data: MediaQuery.of(context).copyWith(textScaler: TextScaler.noScaling), child: SafeArea(top: false, child: child!));
+            return MediaQuery(data: MediaQuery.of(context).copyWith(textScaler: TextScaler.noScaling), child: child!);
           },
           supportedLocales: locals,
           // home: SplashScreen(body: body,),
