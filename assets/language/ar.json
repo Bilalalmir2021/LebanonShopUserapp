@@ -2,8 +2,8 @@
   "on_boarding_title_one": "مرحبا بكم في",
   "on_boarding_title_two": "الخروج سهلة وآمنة",
   "on_boarding_title_three": "أسرع التسليم",
-  "on_boarding_description_one": "التسوق هنا سهل وممتع مع 50 ألف منتج وعروض حصرية وعروض وعروض ترويجية.",
-  "on_boarding_description_two": "استمتع بمدفوعات أكثر أمانًا وأسرع. نحن نقدم أربع بوابات دفع مشهورة عالميًا للدفع السلس والآمن لمشترياتك.",
+  "on_boarding_description_one": "التسوق هنا سهل وممتع مع مجموعة واسعة من المنتجات وعروض حصرية وعروض ترويجية.",
+  "on_boarding_description_two": "استمتع بمدفوعات أكثر أمانًا وأسرع. نحن نقدم بوابات دفع آمنة للدفع السلس والآمن لمشترياتك.",
   "on_boarding_description_three": "الآلاف من البائعين ينتظرون طلبك، قدموا طلبًا، واحصلوا على توصيل سريع واستمتعوا بحياتكم اليومية.",
   "search_hint": "بحث عن منتج...",
   "WISH_LIST_SEARCH": "البحث في قائمة الرغبات",
@@ -261,7 +261,7 @@
   "add_the_location_correctly": "أضف الموقع بشكل صحيح",
   "label_us": "تسمية باسم",
   "address_line_01": "سطر العنوان",
-  "address_line_02": "23/ بلوك أ، قطاع 4",
+  "address_line_02": "",
   "delivery_address": "عنوان التسليم",
   "contact_person_name": "اسم جهة الاتصال",
   "enter_contact_person_name": "أدخل اسم جهة الاتصال",
@@ -325,7 +325,7 @@
   "recommended_product": "المنتج الموصى به",
   "products": "منتجات",
   "view_full_detail": "شاهد التفاصيل الكاملة...",
-  "seven_days_return": "سياسة الإرجاع خلال 7 أيام",
+  "seven_days_return": "سياسة إرجاع سهلة",
   "safe_payment": "الدفع الآمن",
   "authentic_product": "منتجات أصلية 100%",
   "visit_store": "قم بزيارة المتجر",
@@ -722,7 +722,7 @@
   "days_ago": "منذ أيام",
   "search_location": "موقع البحث",
   "session_time_out": "مهلة الجلسة",
-  "though_it_is_demo_text": "على الرغم من أنه تطبيق تجريبي، إلا أن نظامنا تتم إعادة ضبطه تلقائيًا بعد ساعة واحدة، ولهذا السبب قمت بتسجيل الخروج.",
+  "though_it_is_demo_text": "انتهت مهلة الجلسة بسبب عدم النشاط. يرجى تسجيل الدخول مرة أخرى.",
   "okay": "تمام",
   "please_select_items": "الرجاء تحديد العناصر",
   "create_account_with": "قم بإنشاء حساب بالمعلومات المذكورة أعلاه.",
@@ -777,7 +777,7 @@
   "it_looks_like_the_email": "يبدو مثل البريد الإلكتروني",
   "already_used_existing_account": "الذي أدخلته قد تم استخدامه بالفعل ولديه حساب موجود.",
   "yes_its_me": "نعم، إنه أنا",
-  "welcome_to_eFood": "مرحبا بكم في 6 فالي",
+  "welcome_to_eFood": "مرحبا بكم في LebanonShop",
   "done": "منتهي",
   "sign_in_with": "تسجيل الدخول مع",
   "otp": "مكتب المدعي العام",
@@ -876,9 +876,6 @@
   "enter_order_id": "أدخل معرف الطلب",
   "please_include_your": "يرجى تضمين رمز الدولة قبل رقم الهاتف",
   "view_all_products": "عرض جميع المنتجات",
-
-
-
   "order_type": "نوع الطلب",
   "pos_order_small": "ترتيب نقاط",
   "regular": "عادي",
@@ -897,17 +894,14 @@
   "best": "أفضل!",
   "referral_discount": "خصم الإحالة",
   "resend_code_successful": "إعادة تقديم رمز ناجح",
-
   "forgot_password_configuration_is_not": "نسيت تكوين كلمة المرور غير متوفر الآن. لإعادة تعيين كلمة المرور الخاصة بك ، يرجى الاتصال بنا مع دعمنا.",
   "i_have_read_and_agree_to_the_website": "لقد قرأت وأوافق على الموقع الإلكتروني",
   "modify_review_before_resubmitting": "تحتاج إلى تعديل مراجعتك قبل إعادة تقديمها.",
   "shop_available_message": "عذراً! نحن غير متاحين حالياً. سنتواصل معك قريباً. شكراً لصبركم.",
-
   "same_as_shipping_address": "نفس عنوان الشحن",
   "enter_valid_phone_number": "أدخل رقم هاتف صالح",
   "grab_this_deal": "الاستيلاء على هذه الصفقة",
   "add_fund_is_not_configured": "إضافة صندوق غير متوفر حاليًا. يرجى الاتصال بالمشرف.",
-
   "min_price": "الحد الأدنى للسعر",
   "max_price": "الحد الأقصى للسعر",
   "default": "افتراضي",
@@ -916,16 +910,13 @@
   "min_price_should_not_grater": "يجب ألا يكون الحد الأدنى للسعر أكبر من الحد الأقصى للسعر",
   "stock_out": "غير متوفر",
   "minimum_order_amount": "الحد الأدنى للطلب",
-
   "maximum_image_size": "الحد الأقصى لحجم الصورة",
   "maximum_file_size": "الحد الأقصى لحجم الملف",
-
   "please_set_your_delivery_info": "يرجى ضبط معلومات التوصيل الخاصة بك",
   "name": "الاسم",
   "please_set_your_billing_info": "يرجى ضبط معلومات الفواتير الخاصة بك",
   "your_provided_phone_number_use_as_a_login_credential": "سيُستخدم رقم الهاتف الذي قدمته كبيانات اعتماد لتسجيل الدخول",
   "coupon_applied": "تم تطبيق القسيمة",
-
   "weve_received_your_order": "لقد استلمنا طلبك وسيتم شحنه قريبًا",
   "your_Order_id_is": "رقم الطلب الخاص بك هو #",
   "keep_it_handy_for_tracking": "— احتفظ به لتتبع الطلب.",
@@ -944,13 +935,9 @@
   "track_your_order_from_here": "تتبع طلبك من هنا",
   "invoice": "فاتورة",
   "order_canceled": "تم إلغاء الطلب",
-
-
   "order_failed": "فشل توصيل الطلب",
   "order_returned": "تم إرجاع الطلب",
   "order_date_details": "تاريخ الطلب",
   "payment_status_title": "حالة الدفع",
   "your_order_placed_and_it_will_process": "لقد استلمنا طلبك وسيتم معالجته قريبًا."
-
-
 }
